@@ -3,7 +3,7 @@
 
 ## Description
 
-Web application created to randomly generate a password that meets certain to generate a strong password that provides greater security. 
+Web application created to randomly generate a password that meets certain criteria to provide greater security. 
 
 Passwrod generator will ask a series of questions to uniquely make a password to users liking with the choice of capital and lowercase letters, number and symbols. 
 
